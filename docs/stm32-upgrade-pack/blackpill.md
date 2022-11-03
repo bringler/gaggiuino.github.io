@@ -103,7 +103,7 @@ Installing the relay allows the Gaggiuino to perform advanced functions (in conj
 
 - Pump assist during descale program. 
 
-Installing the relay is relatively simple as it is essentially a drop-in replacement for the Optocoupler. The below diagram demonstrates the install with the GC switch panel, relay and related pins.   
+Installing the relay is relatively simple as it is essentially a drop-in replacement for the Optocoupler. The below diagram demonstrates the install with the GC switch panel, relay and related pins. Remove the brew switch bottom wire and secure it against shorts.
 
 ![Figure 6 - Relay diagram for the GCP](https://user-images.githubusercontent.com/80347096/191401329-cdcc0a6a-b414-4c01-bbc8-07d16a5a4282.png)
 
