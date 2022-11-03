@@ -66,9 +66,9 @@ The nano expansion board you already have mirrors the nano pin locations but not
 |           	    |   3V3               	|   PA10         		    |   PB0                 |   D11                     |   HX711_sck_1                 |
 |   		        |   REF		            |   PA11  		            |   PA7                 |   D10                     |                               |
 |                   |   A0                  |   PA12                    |   PA6                 |   D9                      |   thermoCS                    |
-|   relayPin        |   A1                  |   PA15                    |   PA5                 |   D8                      |   thermoCLK                   |
+|   relayPin        |   A1                  |   PA15                    |   PA5                 |   D8                      |   thermoCLK/SCK               |
 |                   |   A2                  |   PB3                     |   PA4                 |   D7                      |                               |
-|   thermoDO        |   A3                  |   PB4                     |   PA3                 |   D6                      |   TX                          |
+|   thermoDO/SO     |   A3                  |   PB4                     |   PA3                 |   D6                      |   TX                          |
 |                   |   A4                  |   PB5                     |   PA2                 |   D5                      |   RX                          |
 |   ADS1115_SCL     |   A5                  |   PB6                     |   PA1                 |   D4                      |   dimmerPin                   |
 |   ADS1115_SDA     |   A6                  |   PB7                     |   PA0                 |   D3                      |   zcPin                       |
